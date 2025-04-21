@@ -1,7 +1,7 @@
 {
   "name": "mcp-server-sample",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc && chmod 755 build/main.js"
@@ -20,7 +20,7 @@
   },
   "type": "module",
   "bin": {
-    "weather": "./build/index.js"
+    "weather": "./build/main.js"
   },
   "files": [
     "build"
