@@ -4,6 +4,8 @@ Criado para fins educacionais no canal Código Fonte TV, este projeto demonstra 
 
 Este repositório contém um exemplo de implementação de um servidor MCP (_Model Context Protocol_) em Node.js/TypeScript, que fornece duas ferramentas para obter informações meteorológicas usando a API do National Weather Service (NWS) dos EUA.
 
+Video do Youtube: https://www.youtube.com/watch?v=NUOzYPSNaNk
+
 ## Funcionalidades
 
 - **get-alerts**: Retorna alertas meteorológicos ativos para um estado (código de duas letras, ex: `CA`, `NY`).
